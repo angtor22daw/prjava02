@@ -1,0 +1,20 @@
+INSTRUCCIONS PER APARTATS
+1: 
+  -a: git checkout -b branca00
+  -b: git checkout branca00
+  -c: git status
+5: 
+  -git checkout main
+  -git status
+  -git log
+7: git checkout branca00
+10b: git merge branca00
+12a: git push
+14a: git push origin branca01
+
+RESPOSTA A LES PREGUNTES
+6: No puc veure l'última linea afegida ja que es només es troba a la branca00 i ara mateix estem a la branca main.
+7: Si puc veure l'última linea ja que estem a la branca00.
+12c: Només s'ha actualitzat la branca main perque hem fet el push des de la branca main.
+14c: Està només a un commit de distància.
+
